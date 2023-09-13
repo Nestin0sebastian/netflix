@@ -49,11 +49,17 @@ nav button{
     border: 1px solid #fff;
     padding:7px 10px;
     
+    
 }
 .language-btn img{
     width:10px;
     margin-left:10px;
 }
+
+#sign:hover{
+    background-color: grey;
+}
+
 .header-content{
 
 position:absolute;
